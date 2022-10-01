@@ -31,7 +31,7 @@ def HaveIbeenPwned(email):
                   '[+] Spam        : ' + str(item['IsSpamList']))
 
     elif sc == 404:
-        print('The Email is Not Breached')
+        print('Error 404 : The Email is Not Breached')
 
     elif sc == 503:
         print('\n')
