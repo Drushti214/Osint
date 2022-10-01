@@ -2,6 +2,7 @@ import re
 import urllib,urllib2
 from xml.dom import minidom
 import csv
+import turtle
 import pygeoip
 from urlparse import urlparse
 class Apidata:
