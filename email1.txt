@@ -1,0 +1,835 @@
+Number: 1
+Phrase: specific Search
+Email: principal@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 2
+Phrase: specific Search
+Email: nishimitra@tiss.edu
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 3
+Phrase: specific Search
+Email: jalpa.mehta@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 4
+Phrase: specific Search
+Email: tina.maru@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 5
+Phrase: specific Search
+Email: deepak.kokate@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 6
+Phrase: specific Search
+Email: rupali.patil@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 7
+Phrase: specific Search
+Email: dimple.rathod15838@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 8
+Phrase: specific Search
+Email: pallavi.pandey_19@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 9
+Phrase: specific Search
+Email: yash.pawar_19@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 10
+Phrase: specific Search
+Email: vinit.kotak@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 11
+Phrase: specific Search
+Email: subha.subramaniam@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 12
+Phrase: specific Search
+Email: shikha.shrivastava@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 13
+Phrase: specific Search
+Email: nandkishor.narkhede@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 14
+Phrase: specific Search
+Email: minal.puranik@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 15
+Phrase: specific Search
+Email: rameshwari.mane@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 16
+Phrase: specific Search
+Email: salabha.jacob@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 17
+Phrase: specific Search
+Email: shubhangi.motewar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 18
+Phrase: specific Search
+Email: manjusha.kulkarni@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 19
+Phrase: specific Search
+Email: manisha.mane@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 20
+Phrase: specific Search
+Email: sarika.bukkawar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 21
+Phrase: specific Search
+Email: anita.nalawade@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 22
+Phrase: specific Search
+Email: jayashree.bhole@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 23
+Phrase: specific Search
+Email: preethi.warrier@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 24
+Phrase: specific Search
+Email: nibha.desai@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 25
+Phrase: specific Search
+Email: aparajita.bera@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 26
+Phrase: specific Search
+Email: amit.tiwari@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 27
+Phrase: specific Search
+Email: madhura.pednekar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 28
+Phrase: specific Search
+Email: pooja.duddalwar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 29
+Phrase: specific Search
+Email: priyanka.singh@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 30
+Phrase: specific Search
+Email: santosh.kamble@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 31
+Phrase: specific Search
+Email: nirmol.munwar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 32
+Phrase: specific Search
+Email: shikha.singh@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 33
+Phrase: specific Search
+Email: bhumika.tarate@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 34
+Phrase: specific Search
+Email: urmila.bachate@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 35
+Phrase: specific Search
+Email: shankar.isal@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 36
+Phrase: specific Search
+Email: snehal.dahikar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 37
+Phrase: specific Search
+Email: vidhi.bhonde@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 38
+Phrase: specific Search
+Email: ashwini.jagtap@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 39
+Phrase: specific Search
+Email: babychen.mathew@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 40
+Phrase: specific Search
+Email: vidya.gogate@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 41
+Phrase: specific Search
+Email: bhavesh.patel@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 42
+Phrase: specific Search
+Email: uday.bhave@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 43
+Phrase: specific Search
+Email: rekha.ramesh@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 44
+Phrase: specific Search
+Email: vidyullata.devmane@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 45
+Phrase: specific Search
+Email: pinki.vishwakarma@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 46
+Phrase: specific Search
+Email: shahzia.sayyad@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 47
+Phrase: specific Search
+Email: manimala.mahato@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 48
+Phrase: specific Search
+Email: manoj.dhande@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 49
+Phrase: specific Search
+Email: milind.khairnar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 50
+Phrase: specific Search
+Email: shashikant.radke@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 51
+Phrase: specific Search
+Email: sonali.bhutad@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 52
+Phrase: specific Search
+Email: vaishali.chavan@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 53
+Phrase: specific Search
+Email: pallavi.deshmane@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 54
+Phrase: specific Search
+Email: bhakti.sonawane@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 55
+Phrase: specific Search
+Email: deepshikha.chaturvedi@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 56
+Phrase: specific Search
+Email: shilpa.kalantri@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 57
+Phrase: specific Search
+Email: karuna.borhade@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 58
+Phrase: specific Search
+Email: amol.dhumal@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 59
+Phrase: specific Search
+Email: jaya.zalte@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 60
+Phrase: specific Search
+Email: deepti.pawar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 61
+Phrase: specific Search
+Email: tejas.hirve@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 62
+Phrase: specific Search
+Email: monika.kanojiya@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 63
+Phrase: specific Search
+Email: sarika.rane@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 64
+Phrase: specific Search
+Email: deepti.nikumbh@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 65
+Phrase: specific Search
+Email: vaishali.hirlekar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 66
+Phrase: specific Search
+Email: atul.kachare@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 67
+Phrase: specific Search
+Email: krupa.chotai@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 68
+Phrase: specific Search
+Email: priyanka.ghule@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 69
+Phrase: specific Search
+Email: priyanka.abhyankar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 70
+Phrase: specific Search
+Email: vaishali.kosamkar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 71
+Phrase: specific Search
+Email: megha.mandavkar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 72
+Phrase: specific Search
+Email: vandana.soni@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 73
+Phrase: specific Search
+Email: divya.pritam@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 74
+Phrase: specific Search
+Email: satish.bangal@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 75
+Phrase: specific Search
+Email: rupali.shinde@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 76
+Phrase: specific Search
+Email: anita.dhami@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 77
+Phrase: specific Search
+Email: sarika.dharangaonkar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 78
+Phrase: specific Search
+Email: sneha.dangare@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 79
+Phrase: specific Search
+Email: bklande@gmail.com
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 80
+Phrase: specific Search
+Email: mahesh.boga@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 81
+Phrase: specific Search
+Email: swati.nadkarni@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 82
+Phrase: specific Search
+Email: dhanashree.toradmalle@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 83
+Phrase: specific Search
+Email: sanjay.sange@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 84
+Phrase: specific Search
+Email: archana.chaugule@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 85
+Phrase: specific Search
+Email: pranali.wagh@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 86
+Phrase: specific Search
+Email: smita.bansod@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 87
+Phrase: specific Search
+Email: lukesh.kadu@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 88
+Phrase: specific Search
+Email: pramila.shinde@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 89
+Phrase: specific Search
+Email: rashmi.malvankar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 90
+Phrase: specific Search
+Email: manya.gidwani@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 91
+Phrase: specific Search
+Email: chintal.maisheri@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 92
+Phrase: specific Search
+Email: manish.bhelande@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 93
+Phrase: specific Search
+Email: ashwini.deshmukh@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 94
+Phrase: specific Search
+Email: bemilajenet.theres@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 95
+Phrase: specific Search
+Email: panjab.mane@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 96
+Phrase: specific Search
+Email: jyoti.bansode@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 97
+Phrase: specific Search
+Email: swati.gajbhiye@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 98
+Phrase: specific Search
+Email: jahanvi.gupta@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 99
+Phrase: specific Search
+Email: dhwaniket.kamble@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 100
+Phrase: specific Search
+Email: santosh.rathod@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 101
+Phrase: specific Search
+Email: niharika.dedhia@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 102
+Phrase: specific Search
+Email: nivedeeta.mukherjee@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 103
+Phrase: specific Search
+Email: komal.patil@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 104
+Phrase: specific Search
+Email: seema.jadhav@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 105
+Phrase: specific Search
+Email: Kirti.suryawanshi@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 106
+Phrase: specific Search
+Email: ankita.awsarmal@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 107
+Phrase: specific Search
+Email: karishma.tiware@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 108
+Phrase: specific Search
+Email: pranita.sangit@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 109
+Phrase: specific Search
+Email: mamta.choudhari@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 110
+Phrase: specific Search
+Email: Veena.badgujar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 111
+Phrase: specific Search
+Email: vaishali.korade@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 112
+Phrase: specific Search
+Email: aditi.warange@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 113
+Phrase: specific Search
+Email: abirami.sivaprasad@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 114
+Phrase: specific Search
+Email: nida.jawre@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 115
+Phrase: specific Search
+Email: vinutha.tp@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 116
+Phrase: specific Search
+Email: mamta.tikaria@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 117
+Phrase: specific Search
+Email: rohan.borgalli@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 118
+Phrase: specific Search
+Email: gauri.chavan@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 119
+Phrase: specific Search
+Email: uma.raj@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 120
+Phrase: specific Search
+Email: shridhar.sahu@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 121
+Phrase: specific Search
+Email: jagdish.sarode@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 122
+Phrase: specific Search
+Email: kalpana.chaudhari@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 123
+Phrase: specific Search
+Email: seema.kawale@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 124
+Phrase: specific Search
+Email: bhushan.pawar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 125
+Phrase: specific Search
+Email: shweta.shetty@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 126
+Phrase: specific Search
+Email: mrunalini.gavfale@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 127
+Phrase: specific Search
+Email: shiwani.singh@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 128
+Phrase: specific Search
+Email: monika.budania@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 129
+Phrase: specific Search
+Email: registrar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 130
+Phrase: specific Search
+Email: aruna.sharma@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 131
+Phrase: specific Search
+Email: shubhalaxmi.hegde@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 132
+Phrase: specific Search
+Email: sadashiv.dahake@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 133
+Phrase: specific Search
+Email: jpssakec@gmail.com
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 134
+Phrase: specific Search
+Email: sushma.srivastava@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 135
+Phrase: specific Search
+Email: shrikrishna.dasari@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 136
+Phrase: specific Search
+Email: sharmila.gundapuneri@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 137
+Phrase: specific Search
+Email: sanjay.patil@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 138
+Phrase: specific Search
+Email: gopal.nanda@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 139
+Phrase: specific Search
+Email: namrata.manglani@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 140
+Phrase: specific Search
+Email: atul.gargade@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 141
+Phrase: specific Search
+Email: smita.shrivastava@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 142
+Phrase: specific Search
+Email: radharani.akkipedi@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 143
+Phrase: specific Search
+Email: uma.iyer@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 144
+Phrase: specific Search
+Email: archana.nath@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 145
+Phrase: specific Search
+Email: jayashri.khose@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 146
+Phrase: specific Search
+Email: neelam.jagtap@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 147
+Phrase: specific Search
+Email: Jagat.manral@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 148
+Phrase: specific Search
+Email: seema.bawnerkar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 149
+Phrase: specific Search
+Email: swapnil.more@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 150
+Phrase: specific Search
+Email: abhay.nichite@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 151
+Phrase: specific Search
+Email: mahendra.bhoir@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 152
+Phrase: specific Search
+Email: megha.kurhade@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 153
+Phrase: specific Search
+Email: pooja.yadav@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 154
+Phrase: specific Search
+Email: aakash.chouhan@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 155
+Phrase: specific Search
+Email: mustafa.shaikh@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 156
+Phrase: specific Search
+Email: ambuj.tiwari@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 157
+Phrase: specific Search
+Email: shwetali.bhiogade@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 158
+Phrase: specific Search
+Email: akhtarhusen.momin@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 159
+Phrase: specific Search
+Email: Vijay.chandugade@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 160
+Phrase: specific Search
+Email: robin.lal@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 161
+Phrase: specific Search
+Email: shilpa.kapure@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 162
+Phrase: specific Search
+Email: bandii.mule@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 163
+Phrase: specific Search
+Email: Kiran.deshmukh@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 164
+Phrase: specific Search
+Email: neetu.borana@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 165
+Phrase: specific Search
+Email: pinky.prajapati@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 166
+Phrase: specific Search
+Email: narayan.jadhav@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------
+Number: 167
+Phrase: specific Search
+Email: ajay.jaiswar@sakec.ac.in
+Url: https://www.shahandanchor.com/home/
+-------------------------------------------------------------------------------

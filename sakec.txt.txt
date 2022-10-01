@@ -1,0 +1,55 @@
+Number: 1
+Phrase: Especific Search
+Email: nilakshi.jain@sakec.ac.in
+Url: https://www.shahandanchor.com/cyber_security/
+-------------------------------------------------------------------------------
+Number: 2
+Phrase: Especific Search
+Email: asha.durafe@sakec.ac.in
+Url: https://www.shahandanchor.com/cyber_security/
+-------------------------------------------------------------------------------
+Number: 3
+Phrase: Especific Search
+Email: shwetambari.borade@sakec.ac.in
+Url: https://www.shahandanchor.com/cyber_security/
+-------------------------------------------------------------------------------
+Number: 4
+Phrase: Especific Search
+Email: nawal.dandekar@sakec.ac.in
+Url: https://www.shahandanchor.com/cyber_security/
+-------------------------------------------------------------------------------
+Number: 5
+Phrase: Especific Search
+Email: vishakha.shinde@sakec.ac.in
+Url: https://www.shahandanchor.com/cyber_security/
+-------------------------------------------------------------------------------
+Number: 6
+Phrase: Especific Search
+Email: meghali.kalyankar@sakec.ac.in
+Url: https://www.shahandanchor.com/cyber_security/
+-------------------------------------------------------------------------------
+Number: 7
+Phrase: Especific Search
+Email: rashmi.patel@sakec.ac.in
+Url: https://www.shahandanchor.com/cyber_security/
+-------------------------------------------------------------------------------
+Number: 8
+Phrase: Especific Search
+Email: suchita.dange@sakec.ac.in
+Url: https://www.shahandanchor.com/cyber_security/
+-------------------------------------------------------------------------------
+Number: 9
+Phrase: Especific Search
+Email: poonam.kamble@sakec.ac.in
+Url: https://www.shahandanchor.com/cyber_security/
+-------------------------------------------------------------------------------
+Number: 10
+Phrase: Especific Search
+Email: rutuja.more@sakec.ac.in
+Url: https://www.shahandanchor.com/cyber_security/
+-------------------------------------------------------------------------------
+Number: 11
+Phrase: Especific Search
+Email: user@sakec.ac.in
+Url: https://www.shahandanchor.com/cyber_security/
+-------------------------------------------------------------------------------
