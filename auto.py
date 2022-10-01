@@ -4,6 +4,7 @@
 # @author: Israel C. dos Reis [@z3xddd]
 
 from os import popen, geteuid
+import time
 
 
 class OsInT_Sc4N3r(object):
