@@ -7,7 +7,6 @@ from colorama import Fore, Style
 from Email_Scan import GetEmail
 from phonenum import number_scan
 from ipmap import get_ip
-#from maclookup import macLookup
 import pyfiglet
 import fontstyle
 
@@ -18,8 +17,8 @@ MainFunctions = {
     3: GetEmail,
     4: geturl,
     5: port,
-    7: web,
-    9: get_ip
+    6: web,
+    7: get_ip
 }
 
 
@@ -35,13 +34,10 @@ def Menu():
         print("2. Phone Number")
         print("3. Email")
         print("4. URL Scan")
-        print("4. MAC Address Spoofer")
         print("5. Advance Port Scanner")
-        print("6. Network Scanner")
-        print("7. Website Scraper")
-        print("8. Subdomain Scanner")
-        print("9. Ip Heatmap")
-        print("10. Exit")
+        print("6. Website Scraper")
+        print("7. Ip Heatmap")
+        print("8. Exit")
         print('')
         Selection = int(input(">> "))
         print('')
@@ -60,10 +56,6 @@ def Menu():
         elif Selection == 7:
             MainFunctions[Selection]()
         elif Selection == 8:
-            MainFunctions[Selection]()
-        elif Selection == 9:
-            MainFunctions[Selection]()
-        elif Selection == 10:
             exit()
         else:
             print("Please choose an Appropriate option")
