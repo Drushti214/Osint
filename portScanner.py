@@ -1,14 +1,6 @@
 #!/usr/bin/python -tt
 import socket
 import threading
-from queue import Queue
-import os
-import argparse
-import time
-import sys
-from termcolor import cprint
-from pyfiglet import figlet_format
-import random
 
 
 class style():
